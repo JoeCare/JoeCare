@@ -4,12 +4,14 @@
 
 [![Python](https://www.vectorlogo.zone/logos/python/python-horizontal.svg)](https://github.com/joecare/)
 [![Flask](https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg)](https://github.com/joecare/)
-[![Git](https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg)](https://github.com/joecare/)
 [![Postgres](https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg)](https://github.com/joecare/)
 [![Bash](https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg)](https://github.com/joecare/)
+[![Git](https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg)](https://github.com/joecare/)
+
 [![ContainerRuntime](https://www.vectorlogo.zone/logos/cloudfoundry_container-runtime/cloudfoundry_container-runtime-ar21.svg)](https://github.com/joecare/)
 [![Docker](https://www.vectorlogo.zone/logos/docker/docker-ar21.svg)](https://github.com/joecare/)
 
+[![Ansible](https://www.vectorlogo.zone/logos/ansible/ansible-ar21.svg)](https://github.com/joecare/)
 [![Gitlab](https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg)](https://github.com/joecare/)
 [![Flux](https://www.vectorlogo.zone/logos/fluxcdio/fluxcdio-ar21.svg)](https://github.com/joecare/)
 [![Pulumi](https://www.vectorlogo.zone/logos/pulumiio/pulumiio-ar21.svg)](https://github.com/joecare/)
