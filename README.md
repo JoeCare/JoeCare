@@ -1,5 +1,5 @@
 - 👋 Here's Joseph: at [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/-joe)
-- 👀 Interested in: backend engineering, cloud-native, process automation with python 
+- 👀 Interested in: AI-augumented software engineering, backend, cloud-native, process automation with python 
 - ❤️ Favs:
 
 [![Python](https://www.vectorlogo.zone/logos/python/python-horizontal.svg)](https://github.com/joecare/)
