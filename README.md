@@ -16,7 +16,7 @@
 [![Prometheus](https://www.vectorlogo.zone/logos/prometheusio/prometheusio-ar21.svg)](https://github.com/joecare/)
 
 [![AWS](https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg)](https://github.com/joecare/)
-- 💝 More:
+- 💝 other:
 
 [![Box](https://www.vectorlogo.zone/logos/box/box-ar21.svg)](https://github.com/joecare/)
 [![Mozilla](https://www.vectorlogo.zone/logos/mozilla/mozilla-ar21.svg)](https://github.com/joecare/)
@@ -26,9 +26,6 @@
 [![Okta](https://www.vectorlogo.zone/logos/okta/okta-ar21.svg)](https://github.com/joecare/)
 [![Symantec](https://www.vectorlogo.zone/logos/symantec/symantec-ar21.svg)](https://github.com/joecare/)
 [![VirusTotal](https://www.vectorlogo.zone/logos/virustotal/virustotal-ar21.svg)](https://github.com/joecare/)
-
-
-- 🌱 Further investigation: The Ops side of DevOps (from strictly dev-perspective to more holistic sysadmin-view)
 
 [![DevOps](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fseeklogo.com%2Fimages%2FD%2Fdevops-logo-CDF1353483-seeklogo.com.png&f=1&nofb=1&ipt=d0e8a54d821223bbf822cd8742765f72490d2a7b9b116673734fa0725943eb5b&ipo=images)](https://github.com/joecare/)
 
