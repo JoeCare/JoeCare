@@ -11,19 +11,11 @@
 [![ContainerRuntime](https://www.vectorlogo.zone/logos/cloudfoundry_container-runtime/cloudfoundry_container-runtime-ar21.svg)](https://github.com/joecare/)
 [![Docker](https://www.vectorlogo.zone/logos/docker/docker-ar21.svg)](https://github.com/joecare/)
 
-[![Ansible](https://www.vectorlogo.zone/logos/ansible/ansible-ar21.svg)](https://github.com/joecare/)
-[![Gitlab](https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg)](https://github.com/joecare/)
 [![Flux](https://www.vectorlogo.zone/logos/fluxcdio/fluxcdio-ar21.svg)](https://github.com/joecare/)
-[![Pulumi](https://www.vectorlogo.zone/logos/pulumiio/pulumiio-ar21.svg)](https://github.com/joecare/)
 
 [![Prometheus](https://www.vectorlogo.zone/logos/prometheusio/prometheusio-ar21.svg)](https://github.com/joecare/)
-[![Grafana](https://www.vectorlogo.zone/logos/grafana/grafana-ar21.svg)](https://github.com/joecare/)
 
 [![AWS](https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg)](https://github.com/joecare/)
-[![AkamaiLinode](https://www.vectorlogo.zone/logos/linode/linode-ar21.svg)](https://github.com/joecare/)
-[![DO](https://www.vectorlogo.zone/logos/digitalocean/digitalocean-ar21.svg)](https://github.com/joecare/)
-[![MSAzure](https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg)](https://github.com/joecare/)
-
 - 💝 More:
 
 [![Box](https://www.vectorlogo.zone/logos/box/box-ar21.svg)](https://github.com/joecare/)
